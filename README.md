@@ -1,6 +1,6 @@
 ## Boas vindas ao meu perfil 💚
 
-Meu nome é Iálita Oliveira
+Meu nome é Iálita 
 
 - Estou estudando na [Alura](https://www.alura.com.br);
 - Estou me desenvolvendo na linguagem JavaScript;
@@ -10,6 +10,5 @@ Meu nome é Iálita Oliveira
 
 00001124098070SP@al.educacao.sp.gov.br
 
-
-![](https://media1.tenor.com/m/PTBNHIGHS-kAAAAd/dog-smile.gif)
+![](https://media1.tenor.com/m/IgknKg_YnbgAAAAC/fluffy-cute.gif)
 
