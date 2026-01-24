@@ -8,7 +8,7 @@ Meu nome é Iálita
 
 ## Você pode entrar em contato comigo 📫
 
-00001124098070SP@al.educacao.sp.gov.br
+ialitaoliveira1@gmail.com
 
 ![](https://media1.tenor.com/m/IgknKg_YnbgAAAAC/fluffy-cute.gif)
 
